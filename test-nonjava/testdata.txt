@@ -1,0 +1,76 @@
+0.01;um centavo
+0.02;dois centavos
+0.05;cinco centavos
+0.10;dez centavos
+0.11;onze centavos
+0.17;dezessete centavos
+0.20;vinte centavos
+0.21;vinte e um centavos
+0.37;trinta e sete centavos
+0.50;cinqüenta centavos
+0.51;cinqüenta e um centavos
+0.99;noventa e nove centavos
+1;um real
+1.01;um real e um centavo
+1.05;um real e cinco centavos
+1.10;um real e dez centavos
+1.50;um real e cinqüenta centavos
+1.99;um real e noventa e nove centavos
+2;dois reais
+2.01;dois reais e um centavo
+2.10;dois reais e dez centavos
+5;cinco reais
+9;nove reais
+10;dez reais
+11;onze reais
+11.11;onze reais e onze centavos
+19.15;dezenove reais e quinze centavos
+20;vinte reais
+21;vinte e um reais
+21.21;vinte e um reais e vinte e um centavos
+22;vinte e dois reais
+30;trinta reais
+40;quarenta reais
+60;sessenta reais
+90;noventa reais
+91;noventa e um reais
+99;noventa e nove reais
+100;cem reais
+100.01;cem reais e um centavo
+101;cento e um reais
+102;cento e dois reais
+101.01;cento e um reais e um centavo
+137;cento e trinta e sete reais
+137.39;cento e trinta e sete reais e trinta e nove centavos
+200;duzentos reais
+234;duzentos e trinta e quatro reais	
+300;trezentos reais
+400;quatrocentos reais
+500;quinhentos reais
+900;novecentos reais
+1000;um mil reais
+1001;um mil e um reais
+1000.01;um mil reais e um centavo
+1134.09;um mil e cento e trinta e quatro reais e nove centavos
+2000;dois mil reais
+11000;onze mil reais
+22000;vinte e dois mil reais
+105000;cento e cinco mil reais
+105000.21;cento e cinco mil reais e vinte e um centavos
+1000000;um milhão de reais
+1000000.01;um milhão de reais e um centavo
+10000000;dez milhões de reais
+11234718.97;onze milhões e duzentos e trinta e quatro mil e setecentos e dezoito reais e noventa e sete centavos
+100000000;cem milhões de reais
+100234001;cem milhões e duzentos e trinta e quatro mil e um reais
+100234001.25;cem milhões e duzentos e trinta e quatro mil e um reais e vinte e cinco centavos
+1000000000;um bilhão de reais
+1001001001;um bilhão e um milhão e um mil e um reais
+1000000000000;um trilhão de reais
+1000000000000000;um quatrilhão de reais
+1000000000000000000;um quintilhão de reais
+1000000000000000000000;um sextilhão de reais
+1000000000000000000000000;um setilhão de reais
+234000000000000000000000000;duzentos e trinta e quatro setilhões de reais
+999999999999999999999999999;novecentos e noventa e nove setilhões e novecentos e noventa e nove sextilhões e novecentos e noventa e nove quintilhões e novecentos e noventa e nove quatrilhões e novecentos e noventa e nove trilhões e novecentos e noventa e nove bilhões e novecentos e noventa e nove milhões e novecentos e noventa e nove mil e novecentos e noventa e nove reais
+999999999999999999999999999.99;novecentos e noventa e nove setilhões e novecentos e noventa e nove sextilhões e novecentos e noventa e nove quintilhões e novecentos e noventa e nove quatrilhões e novecentos e noventa e nove trilhões e novecentos e noventa e nove bilhões e novecentos e noventa e nove milhões e novecentos e noventa e nove mil e novecentos e noventa e nove reais e noventa e nove centavos
