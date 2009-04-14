@@ -43,14 +43,14 @@ public class Results {
 		assertTrue("vinte centavos".equals(cw.write(new BigDecimal("0.20"))));
 		assertTrue("vinte e um centavos".equals(cw.write(new BigDecimal("0.21"))));
 		assertTrue("trinta e sete centavos".equals(cw.write(new BigDecimal("0.37"))));
-		assertTrue("cinqüenta centavos".equals(cw.write(new BigDecimal("0.50"))));
-		assertTrue("cinqüenta e um centavos".equals(cw.write(new BigDecimal("0.51"))));
+		assertTrue("cinquenta centavos".equals(cw.write(new BigDecimal("0.50"))));
+		assertTrue("cinquenta e um centavos".equals(cw.write(new BigDecimal("0.51"))));
 		assertTrue("noventa e nove centavos".equals(cw.write(new BigDecimal("0.99"))));
 		assertTrue("um real".equals(cw.write(new BigDecimal("1"))));
 		assertTrue("um real e um centavo".equals(cw.write(new BigDecimal("1.01"))));
 		assertTrue("um real e cinco centavos".equals(cw.write(new BigDecimal("1.05"))));
 		assertTrue("um real e dez centavos".equals(cw.write(new BigDecimal("1.10"))));
-		assertTrue("um real e cinqüenta centavos".equals(cw.write(new BigDecimal("1.50"))));
+		assertTrue("um real e cinquenta centavos".equals(cw.write(new BigDecimal("1.50"))));
 		assertTrue("um real e noventa e nove centavos".equals(cw.write(new BigDecimal("1.99"))));
 		assertTrue("dois reais".equals(cw.write(new BigDecimal("2"))));
 		assertTrue("dois reais e um centavo".equals(cw.write(new BigDecimal("2.01"))));

@@ -7,14 +7,14 @@
 0.20;vinte centavos
 0.21;vinte e um centavos
 0.37;trinta e sete centavos
-0.50;cinqüenta centavos
-0.51;cinqüenta e um centavos
+0.50;cinquenta centavos
+0.51;cinquenta e um centavos
 0.99;noventa e nove centavos
 1;um real
 1.01;um real e um centavo
 1.05;um real e cinco centavos
 1.10;um real e dez centavos
-1.50;um real e cinqüenta centavos
+1.50;um real e cinquenta centavos
 1.99;um real e noventa e nove centavos
 2;dois reais
 2.01;dois reais e um centavo

@@ -265,7 +265,7 @@ public class CurrencyWriter {
 		nomes.put(20, "vinte");
 		nomes.put(30, "trinta");
 		nomes.put(40, "quarenta");
-		nomes.put(50, "cinqüenta");
+		nomes.put(50, "cinquenta");
 		nomes.put(60, "sessenta");
 		nomes.put(70, "setenta");
 		nomes.put(80, "oitenta");
