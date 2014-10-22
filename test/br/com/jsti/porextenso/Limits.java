@@ -25,7 +25,8 @@ import java.math.BigDecimal;
 import org.junit.Test;
 
 public class Limits {
-	private CurrencyWriter cw = new CurrencyWriter();
+	private CurrencyWriter cw = CurrencyWriter.getInstance();
+	
 	@Test
 	public void limits() {
 		cw.write(new BigDecimal(1000));

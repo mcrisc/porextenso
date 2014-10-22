@@ -67,7 +67,17 @@ public class CurrencyWriter {
 	private static final BigDecimal MAX_SUPPORTED_VALUE = new BigDecimal("999999999999999999999999999.99");
 	
 	
-	public CurrencyWriter() {
+	private static CurrencyWriter instance = null;
+	
+	public static CurrencyWriter getInstance() {
+		if (instance == null) {
+			instance = new CurrencyWriter();
+		}
+
+		return instance;
+	}
+	
+	private CurrencyWriter() {
 		preencherGrandezasPlural();
 		preencherGrandezasSingular();
 		preencherNomes();
@@ -95,7 +105,7 @@ public class CurrencyWriter {
 		 * centenas e dos centavos, respectivamente. Assim, o expoente de
 		 * dez que representa a grandeza no topo da pilha é o número de 
 		 * (elementos - 2) * 3 */
-		int expoente = 3 * (decomposed.size() - 2); // TODO usar um índice de grupos ao invés do expoente 
+		int expoente = 3 * (decomposed.size() - 2); // TODO usar um índice de grupos em vez do expoente 
 		
 		StringBuffer sb = new StringBuffer();
 		int lastNonZeroExponent = -1;

@@ -28,7 +28,7 @@ import org.junit.Test;
 
 public class Results {
 	
-	private CurrencyWriter cw = new CurrencyWriter();
+	private CurrencyWriter cw = CurrencyWriter.getInstance();
 	
 	@Test
 	public void results() {
