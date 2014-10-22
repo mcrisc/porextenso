@@ -1,1 +1,4 @@
+*.md
 *.class
+/bin/
+/testbin/

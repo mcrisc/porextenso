@@ -27,7 +27,7 @@ import java.util.Map;
 import java.util.Stack;
 
 /**
- * @author Marcelo Criscuolo (Jaú) - criscuolo.marcelo (at) gmail (dot) com
+ * @author Marcelo Criscuolo - criscuolo (dot) marcelo (at) gmail (dot) com
  *
  */
 public class CurrencyWriter {
