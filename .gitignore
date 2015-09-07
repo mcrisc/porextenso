@@ -1,4 +1,9 @@
 *.class
 *~
-/bin/
-/testbin/
+/bin
+.gradle
+/build
+*.pyc
+.project
+.classpath
+/.settings
